@@ -1,1 +1,9 @@
 This folder contains the datasets use to train the model
+CREMA-D(Kaggle) - The CREMA-D dataset is an audio-visual collection of actor clips used to detect vocal panic, speech rates, and emotional strain.
+Link - https://www.kaggle.com/datasets/ejlok1/cremad
+Coswara Dataset (heavy cough) - Contains numeric sound wave statistics that show chest raspiness and heavy gasping. We scale these numbers so large wave frequencies do not overpower smaller math values.
+Link - https://www.kaggle.com/datasets/sarabhian/coswara-dataset-heavy-cough
+Gait Analysis Dataset: Cerebellar Ataxia - Contains full body video clips of people showing both normal walking patterns and simulated ataxic walking movements. These videos help capture differences in posture, and movement patterns allowing the computer to identify abnormal walking patterns
+Link - https://www.kaggle.com/datasets/rakeshkumarpudi/gait-analysis-dataset-cerebellar-ataxia
+Fedmml_ed_triage_dataset - Contains over 87,000 real hospital rows with heart rates, blood pressure numbers, and short medical text notes. We remove slow laboratory tests and use group averages to fill in any missing vitals.
+Link - https://huggingface.co/datasets/olaflaitinen/fedmml-ed-triage/tree/main
