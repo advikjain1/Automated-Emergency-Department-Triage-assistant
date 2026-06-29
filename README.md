@@ -12,6 +12,6 @@ Datasets :
 FedMML Triage Spreadsheet
 Speech Emotion Spreadsheet
 Coswara Cough Spreadsheet
-MediaPipe Pose Spreadsheet
+Gait Analysis Dataset
 Project Website: (To be added)
 Contact Us: Advik jain - advik.jain1@pathways.in
